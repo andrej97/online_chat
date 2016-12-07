@@ -4,12 +4,13 @@
 
 Izmantotās tehnoloģijas:
 1. HTML
-1. CSS
-1. PHP
-1. Javascript
-1. jQuery
-1. Bootstrap
-1. MySQL
+2. CSS
+3. PHP
+4. Javascript
+5. jQuery
+6. Bootstrap
+7. MySQL
+
 
 > Palaišanas instrūkcija: 
->   Programmu var palaist, ierakstot internetparlūkas ievadrindā "larsik97.github.io", bet tas nestrādā, jo nav html faila :(
+>   Programmu var palaist, ievitot c'atu jeb lakalajā severī, jeb uz hostinga ielikt.
