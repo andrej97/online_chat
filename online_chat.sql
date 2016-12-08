@@ -80,7 +80,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `login`, `password`) VALUES
 (1, 'admin', 'admin'),
 (2, 'andrejs', 'qwerty'),
-(3, 'nadja.p', 'nikaiand');
+(3, 'nadja', 'nadjaqwerty');
 
 -- --------------------------------------------------------
 
